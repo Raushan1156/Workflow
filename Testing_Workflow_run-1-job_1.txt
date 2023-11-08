@@ -1,0 +1,9 @@
+name: First-Workflow
+on:push
+jobs:
+	name: 1st-Job
+	runs-on: ubuntu-latest
+	steps:
+		-name: step-1
+		 used: action/checkout@v2
+		
