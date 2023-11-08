@@ -4,7 +4,7 @@ jobs:
   job1:
 	  runs-on: ubuntu-latest
 	  steps:
-   		  - uses: action/checkout@v3
+   		- uses: action/checkout@v3
        
-		    - name: step-1
-          run: echo done
+		- name: step-1
+          	  run: echo done
