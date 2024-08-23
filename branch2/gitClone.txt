@@ -1,1 +1,1 @@
-git clone remote-url>[D[D[D[D[D[D[D[D[D[D[D[D[C<
+git clone <remote-url>
